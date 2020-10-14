@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"D:/devopshub_lab/setup_lab_cicd","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
